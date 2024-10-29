@@ -20,10 +20,12 @@ This repository includes the following files:
 - **PCB Files:** Design files for the printed circuit board (PCB) used in the machine.
 - **Project Report:** A comprehensive PDF report explaining the design, functionality, and components of the Smart Tea Machine.
 
-## Getting Started
+## Contributors
 
-To set up and run the Smart Tea Machine, follow these instructions:
+Thanks to the following team members for their contributions to this project:
 
-1. **Clone the repository:** 
-   ```bash
-   git clone <repository-url>
+- **[Jathusaa Indrakumaran](https://github.com/yourusername)** 
+- **[Anisa Matan](https://github.com/Anisa-M1)** 
+- **[Vishwa Prajapati](https://github.com/vishwapraja)** 
+
+
